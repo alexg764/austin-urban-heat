@@ -2,7 +2,7 @@
 # Urban Heat Island Risk — Downtown Austin
 ### Heat Severity Index derived from Landsat 9 LST and NDVI
 
-![Urban Heat Island Risk Map](outputs/Urban Heat Island Risk - Downtown Austin.png)
+![Urban Heat Island Risk Map](https://github.com/alexg764/austin-urban-heat/raw/main/outputs/urbanheatrisk_austin.png)
 
 ---
 
